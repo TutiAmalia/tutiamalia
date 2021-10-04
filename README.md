@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Tuti Amalia 👋
+
+## I am a Student, Machine Learning📉 Enthusiast📚
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TutiAmalia&show_icons=true)
+
+- 📁 I’m currently working on my undergraduate research proposal
+- 🔭 I’m currently Focused🎯 to get better
+- 🥅 2021 Goals: get my bachelor degree
 
 <!--
 **TutiAmalia/tutiamalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
